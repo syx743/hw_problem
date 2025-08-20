@@ -45,9 +45,9 @@ void solve()
     cout << ans << endl;
 }
 
-int main()
-{
-    solve();
-    system("pause");
-    return 0;
-}
+// int main()
+// {
+//     solve();
+//     system("pause");
+//     return 0;
+// }
